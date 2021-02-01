@@ -1,6 +1,6 @@
 # PSI-PDE
 A robust method of learning PDEs from dynamical systems.
-![Framework](Framework.pdf)
+![Framework](Framework.PNG)
 Copyright Notice:
 
 Authors: Zhiming Zhang zzhan506@asu.edu; Yongming Liu yongming.liu@asu.edu
